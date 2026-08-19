@@ -67,3 +67,9 @@ Creating my GitHub and LinkedIn accounts also helped me understand the importanc
 As a future System Administrator, these tools will help me develop important skills in system management, troubleshooting, documentation, and version control. This activity also taught me that patience and problem-solving are important when working with technology. Overall, Week 1 gave me a good foundation for developing my technical and professional skills.
 
 ---
+
+# References
+-https://git-scm.com/
+-https://desktop.github.com/
+-https://code.visualstudio.com/
+-https://www.virtualbox.org/
