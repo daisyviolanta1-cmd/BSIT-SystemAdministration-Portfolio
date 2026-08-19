@@ -36,14 +36,17 @@ LinkedIn: Daisy M. Violanta
 
 # Installation Screenshots
 
-![Git Installation](screenshots/git.png)
+![Git Installation](screenshots/Git_Violanta.png)
 
-![Ubuntu Installation](screenshots/ubuntu.png)
+![Ubuntu Installation](screenshots/Ubuntu_Violanta.jpeg)
 
-![GitHub](screenshots/github.png)
+![GitHub Installation](screenshots/Github_Violanta.png)
 
-![LinkedIn](screenshots/linkedin.png)
+![VirtualBox Installation](screenshots/VirtualBox_Violanta.png)
 
+![VS Code Installation](screenshots/VS Code_Violanta.png)
+
+![Windows ISO Installation](screenshots/Windows ISO_Violanta.png)
 
 # Challenges Encountered
 
