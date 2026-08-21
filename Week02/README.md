@@ -92,9 +92,15 @@ The network diagram was created using **Draw.io** based on the network requireme
 
 The diagram shows the connection between the Internet, ISP modem, router, firewall, switch, server, printer, wireless access point, and the four company departments.
 
+### Network Diagram Preview
 
+![ABC Startup Solutions Network Diagram](diagrams/NetworkDiagram.png)
 
-**Network Diagram:** [View PNG] | [View PDF](
+### Network Diagram Files
+
+- [View Network Diagram – PNG](diagrams/NetworkDiagram.png)
+- [View Network Diagram – PDF](diagrams/NetworkDiagram.pdf)
+- [View/Edit Network Diagram – Draw.io](diagrams/NetworkDiagram.drawio)
 
 ---
 
